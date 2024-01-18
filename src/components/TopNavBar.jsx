@@ -12,9 +12,9 @@ const TopNavBar = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="https://gioLaghetto.netlify.app/">Home</Nav.Link>
-            <Nav.Link href="https://gioLaghetto.netlify.app//Iam">Who I am</Nav.Link>
-            <Nav.Link href="https://gioLaghetto.netlify.app//somework">Some Work</Nav.Link>
-            <Nav.Link href="https://gioLaghetto.netlify.app//contact">Contact</Nav.Link>
+            <Nav.Link href="https://gioLaghetto.netlify.app/iam">Who I am</Nav.Link>
+            <Nav.Link href="https://gioLaghetto.netlify.app/somework">Some Work</Nav.Link>
+            <Nav.Link href="https://gioLaghetto.netlify.app/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
