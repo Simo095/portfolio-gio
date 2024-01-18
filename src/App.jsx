@@ -11,19 +11,19 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          path="https://gioLaghetto.netlify.app/"
+          path="https://giolaghetto.netlify.app/"
           element={<Home />}
         />
         <Route
-          path="https://gioLaghetto.netlify.app/somework"
+          path="https://giolaghetto.netlify.app/somework"
           element={<SomeWork />}
         />
         <Route
-          path="https://gioLaghetto.netlify.app/iam"
+          path="https://giolaghetto.netlify.app/iam"
           element={<IAm />}
         />
         <Route
-          path="https://gioLaghetto.netlify.app/contact"
+          path="https://giolaghetto.netlify.app/contact"
           element={<Contact />}
         />
       </Routes>
