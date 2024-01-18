@@ -1,4 +1,4 @@
-import { Carousel, Container, Image } from "react-bootstrap";
+import { Carousel, Container } from "react-bootstrap";
 import TopNavBar from "./TopNavBar";
 
 const Home = () => {
