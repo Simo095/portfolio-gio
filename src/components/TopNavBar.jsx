@@ -11,10 +11,10 @@ const TopNavBar = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/Iam">Who I am</Nav.Link>
-            <Nav.Link href="/somework">Some Work</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link href="https://radiant-faloodeh-b32fbc.netlify.app/">Home</Nav.Link>
+            <Nav.Link href="https://radiant-faloodeh-b32fbc.netlify.app//Iam">Who I am</Nav.Link>
+            <Nav.Link href="https://radiant-faloodeh-b32fbc.netlify.app//somework">Some Work</Nav.Link>
+            <Nav.Link href="https://radiant-faloodeh-b32fbc.netlify.app//contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
